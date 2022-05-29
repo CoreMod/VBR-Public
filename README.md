@@ -1,4 +1,4 @@
-# VBR-Public
+# Vanilla Bosses Remade
 This Terraria mod attempts to overhaul every non-event vanilla boss to be more interesting and challenging. It is intended as a side addition for other major mods.
 
 Each boss overhaul can be disabled in the config, so you can pick or drop the changes you like.
