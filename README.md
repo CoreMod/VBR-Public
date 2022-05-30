@@ -10,19 +10,23 @@ Also works in multiplayer! (mostly)
 Currently reworks:
 <Details>
   <Summary>King Slime</Summary>
-  image wip
+  <img src="https://github.com/CoreMod/VBR-Public/blob/main/KS.png?raw=true"></img>
 </Details>
 <Details>
   <Summary>Eye of Cthulhu</Summary>
+  <img src=""></img>
 </Details>
 <Details>
   <Summary>Eater of Worlds</Summary>
+  <img src="e"></img>
 </Details>
 <Details>
   <Summary>Brain of Cthulhu</Summary>
+  <img src=""></img>
 </Details>
 <Details>
   <Summary>Queen Bee</Summary>
+  <img src=""></img>
 </Details>
 
 With more to come...
