@@ -1,7 +1,7 @@
 # Vanilla Bosses Remade
 This Terraria mod attempts to overhaul every non-event vanilla boss to be more interesting and challenging. It is intended as a side addition for other major mods.
 
-Each boss overhaul can be disabled in the config, so you can pick or drop the changes you like.
+Each boss overhaul can be disabled in the config, so you can pick or drop the ones you like.
 
 This mod only changes boss AI and their minions, projectiles, and nothing else (besides disabling natural spawns, which can also be disabled), making it compatible with non-boss-changing mods like Thorium.
 
