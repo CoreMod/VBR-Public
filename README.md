@@ -14,19 +14,19 @@ Currently reworks:
 </Details>
 <Details>
   <Summary>Eye of Cthulhu</Summary>
-  <img src=""></img>
+  <img src="https://github.com/CoreMod/VBR-Public/blob/main/EOC.png?raw=true"></img>
 </Details>
 <Details>
   <Summary>Eater of Worlds</Summary>
-  <img src="e"></img>
+  <img src="https://github.com/CoreMod/VBR-Public/blob/main/EOW.png?raw=true"></img>
 </Details>
 <Details>
   <Summary>Brain of Cthulhu</Summary>
-  <img src=""></img>
+  <img src="https://github.com/CoreMod/VBR-Public/blob/main/BOC.png?raw=true"></img>
 </Details>
 <Details>
   <Summary>Queen Bee</Summary>
-  <img src=""></img>
+  <img src="https://github.com/CoreMod/VBR-Public/blob/main/QB.png?raw=true"></img>
 </Details>
 
 With more to come...
