@@ -30,3 +30,5 @@ Currently reworks:
 </Details>
 
 With more to come...
+
+1.3 version is no longer supported. [The 1.4 version is currently available with extra content.](https://steamcommunity.com/sharedfiles/filedetails/?id=2864891861)
